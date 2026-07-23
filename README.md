@@ -38,7 +38,7 @@ This repository contains the supplementary materials associated with our researc
 
 ## Data Availability
 
-The cancer multi-omics datasets analyzed in this study are publicly available from **The Cancer Genome Atlas (TCGA)**. This repository provides only the processed supplementary results generated during our analysis and does not redistribute the original TCGA datasets.
+The cancer multi-omics datasets analyzed in this study are publicly available from the **National Cancer Institute**. This repository provides only the processed supplementary results generated during our analysis and does not redistribute the original TCGA datasets.
 
 ## Citation
 
